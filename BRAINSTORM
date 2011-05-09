@@ -1,42 +1,33 @@
-Brainstorming Sheet
+~Brainstorming Sheet~
 
-Description: Use this sheet to add your ideas about the project.
+Description: The core and essential elements of the game; in addition to other ideas agreed upon
 
 
 Part 1: Gameplay
 -------------------
-
--   Section 1: Enemy Characters
-    * Main Character (codename: The Boss)
-    * Heroes
-        + big, strong dude
-        + marine/army troop
-	+ sterotypical American superhero
-	+ spellcaster
-	+ ninja
-	+ swordsman
-	+ robot/cyborg
-
-
--   Section 2: Storyline
+-   Section 1: Storyline
     * You are the final boss in an RPG.
     * Heroes of all kinds come to try and defeat you.
-    * You must fend off many enemies one at a time, while consistently getting stronger or laying traps. (Should you gain abilities or just new types of traps?)
-    * Utilize the weapons left behind by your enemies to lay traps and/or equip yourself against future enemies.
+    * You must fend off many enemies one at a time, while consistently getting stronger or laying traps.
+	(Should you gain abilities or just new types of traps?)
+    * Utilize the weapons left behind by your enemies to lay traps and/or equip yourself against future
+	enemies.
 
 
--   Section 3: Items
+-   Section 2: Items
 
 
 
 Part 2: Programming
 ----------------------
-
 -   Section 1: Class Hierarchy
 
 
-Part 3: Main Character List
+
+Part 3: Character List
 ----------------------
-	+ evil wizard
-	+ pirate
-	+ robot/cyborg
+-   Section 1: Player Characters ("bad guy")
+	+ none decided on yet (see  "Misc Ideas" file)
+
+-   Section 2: Enemy Characters ("good guys")
+        + none decided on yet (see  "Misc Ideas" file)

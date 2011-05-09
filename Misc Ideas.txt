@@ -1,0 +1,45 @@
+~Miscellaneous Ideas~
+
+Description: Something cool come to mind? Add it here!
+
+Part 1: Story/ Gameplay
+-------------------
+-   The heroes keep dying and respawning to fight you again. Because they keep fighting you,
+	they are becoming stronger and stronger just like you are.
+-   
+
+
+
+Part 2: STRICTLY Gameplay
+-------------------
+-   "Intimidate" enemies
+	+ intimidation negatively affects the recipient's stats (movement speed, reaction time, etc.)
+	+ purchase armor to intimidatingly discard in front of heroes to inflict it
+	+ purchase abilities to inflict intimidation (battle cry, aura dispersion, etc.)
+-   purchase AI controled minions to fight along side you
+	+ cost is proportional to the minion's health, damage, etc.
+	+ different types of minions or simply stronger versions of the basic kind?
+	+ pay a lot to "resurrect" a boss that "was already defeated". Basically, bosses are
+	     the strongest type of minion you can have
+	+ perhaps have access to abilities to enhance your current minions temporarily/forever
+
+
+
+Part 3: Character List
+----------------------
+-   Section 1: Player Characters ("bad guy")
+	+ big, strong dude
+	+ evil wizard
+	+ pirate
+	+ robot/cyborg
+	+ evil genius
+	+ alien
+
+-   Section 2: Enemy Characters ("good guys")
+        + big, strong dude
+        + marine/army troop
+	+ sterotypical American superhero
+	+ spellcaster
+	+ ninja
+	+ swordsman
+	+ robot/cyborg

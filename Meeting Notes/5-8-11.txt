@@ -1,0 +1,2 @@
+* made a new folder called "Meeting Notes" to store... meeting notes!
+* 
