@@ -22,6 +22,19 @@ Part 2: Programming
 ----------------------
 -   Section 1: Class Hierarchy
 
+    - Drawable   // Anything that is drawn should extend a single drawable class (or one of its subclasses), which will handle all of the background stuff.
+      | - Level/Map/Background...   // This will be the class that holds the level background, perhaps with two drawable objects: one for the background (e.g. cave wall) and one for the floor (i.e. the surface on which the players can walk).
+      | - Sprite   // Anything that moves on the screen should extend Sprite (or one of its subclasses).
+          | - Character   // Pretty self-explanatory
+              | - Boss (main character)
+              | - Hero (enemy)
+          | - Item
+              | - Weapon
+              | - Ammo
+              | - Pickup (powerups, useable items, etc.)
+          | - Scenery
+       | - HUD   // There will only be one of these.
+
 
 
 Part 3: Character List
